@@ -1,12 +1,13 @@
 <template>
-  <h1>hello</h1>
+<h1></h1>
 </template>
 
 <script>
-import './assets/style.css'
 export default {
+  name: "Figure.vue"
 }
 </script>
 
-<style>
+<style scoped>
+
 </style>
